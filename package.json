@@ -30,7 +30,7 @@
     "jquery": "^3.7.0",
     "lit": "^2.7.4",
     "workbox-build": "^6.5.4",
-    "workbox-core": "^6.5.2",
+    "workbox-core": "^6.6.0",
     "workbox-precaching": "^6.5.2"
   },
   "devDependencies": {
